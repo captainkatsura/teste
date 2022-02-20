@@ -1,0 +1,1 @@
+console.log("If I had my own world I'd fill it with wealth and desire");
